@@ -9,4 +9,5 @@ interface IAIDLCalculateInterface {
      * and return values in AIDL.
      */
     double doCalculate(String s);
+    String zodiak(int day, int month);
 }
